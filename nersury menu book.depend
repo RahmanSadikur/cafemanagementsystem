@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509058305 source:d:\h w c programing\nersury menu book\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
